@@ -1,2 +1,2 @@
-# Optimization-Techniques-Assignments
-Optimization Techniques Assignments @ECE AUTh
+# Optimization-Algorithms
+Optimization Techniques Assignments as given at the dept. of Electrical and Computer Enginnering, Aristotle University of Thessaloniki
